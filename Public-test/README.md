@@ -1,1 +1,0 @@
-This test makes 5 threads which concurrently allocate and deallocate memmory (both small memmory buffer and different size caches). This allocation and deallocation are done by slab allocator API, which is implemented in this project.
