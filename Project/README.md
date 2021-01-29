@@ -1,0 +1,4 @@
+Buddy allocator:
+
+Slab allocator:
+
